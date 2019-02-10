@@ -1,0 +1,13 @@
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\bin\Debug\Bound_Log_Book_Reformat.exe
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\bin\Debug\Bound_Log_Book_Reformat.pdb
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\Bound_Log_Book_Reformat.exe
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\Bound_Log_Book_Reformat.pdb
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\bin\Debug\Bound_Log_Book_Reformat.exe.manifest
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\bin\Debug\Bound_Log_Book_Reformat.application
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\Bound_Log_Book_Reformat.exe.manifest
+C:\Data\DASCH\Bound_Log_Book_Reformat\Bound_Log_Book_Reformat\obj\x86\Debug\Bound_Log_Book_Reformat.application
