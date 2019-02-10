@@ -26,3 +26,13 @@ C:\Users\Bill\Data\DASCH\Bound_Logbook_Reformat\bin\Debug\Bound_Logbook_Reformat
 C:\Users\Bill\Data\DASCH\Bound_Logbook_Reformat\bin\Debug\Bound_Logbook_Reformat.exe
 C:\Users\Bill\Data\DASCH\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.exe.manifest
 C:\Users\Bill\Data\DASCH\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.application
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.csprojAssemblyReference.cache
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\WindowsFormsApplication1.BoundLogbookReformat.resources
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\BoundLogbookReformatApplication.Properties.Resources.resources
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.csproj.GenerateResource.cache
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.exe
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\obj\x86\Debug\Bound_Logbook_Reformat.pdb
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\bin\Debug\Bound_Logbook_Reformat.exe.config
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\bin\Debug\Bound_Logbook_Reformat.exe
+C:\Users\Bill\Source\Repos\Bill-Robinson63\DASCH-Log-Book-Re-formatter\Bound_Logbook_Reformat\bin\Debug\Bound_Logbook_Reformat.pdb
